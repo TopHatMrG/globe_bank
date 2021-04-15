@@ -11,7 +11,7 @@
       <li><a href="<?php echo url_for('/staff/pages/index.php'); ?>">Pages</a></li>
     </ul>
   </div>
+
 </div>
 
 <?php include(SHARED_PATH . '/staff_footer.php'); ?>
- 
